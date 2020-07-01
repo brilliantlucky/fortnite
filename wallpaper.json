@@ -56,9 +56,21 @@
   "Categories": [
     {
       "id": 1,
-      "nama_cat": "",
-      "gambar": ""
+      "nama_cat": "Dragon Ball",
+      "gambar": "https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg"
      
+    },
+    {
+      "id": 2,
+      "nama_cat": "Naruto",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/dVqITqcu9gJfpnWOgPEaAfol0eM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/653825/original/naruto-anime-naruto-33923256-1920-1080.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama_cat": "One Piece",
+      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
+    
     }
   ],
 
