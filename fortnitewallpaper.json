@@ -1,0 +1,174 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+        
+        "appid": "pub-3940256099942544",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "0",
+        
+        "interval": 1,
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
+        
+        "inmobi_inter": 1476878485960,
+        "inmobi_banner":1473189489298,
+        "inmobi_id":"1234567890qwerty0987654321qwerty12345",
+        
+        
+         "startaap":"1234567890"
+        
+      
+       
+
+        }
+    ],
+
+"More":
+  [ 
+    {
+    "id":1,
+    "judul":"Ludo King",
+    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+  },
+  {
+    "id":2,
+    "judul":"Homescapes",
+    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+  }
+
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "",
+      "gambar": ""
+     
+    }
+  ],
+
+  "Wallpaper":
+  [
+    {
+      "id":1,
+      "id_wall":"001",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/cf/39/49/cf39493f9f13aeaddc3602b1fbdee3f3.jpg"
+    },
+    {
+      "id":2,
+      "id_wall":"002",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/9a/74/a0/9a74a0c03c2ef10842d7176c5ea862c7.jpg"
+    },
+    {
+      "id":3,
+      "id_wall":"003",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/ee/4f/c8/ee4fc8bb606796d5f4ffdb9de1a23788.jpg"
+    },
+    {
+      "id":4,
+      "id_wall":"004",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/14/70/51/147051a9c71c75d9a60230f4f6e9de7d.jpg"
+    },
+    {
+      "id":5,
+      "id_wall":"005",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/cd/3c/0f/cd3c0fc6a2432a7f6e3cfdd3af2a50c9.jpg"
+    },
+    {
+      "id":6,
+      "id_wall":"006",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/25/0e/76/250e76a9cb7e2bb32f504c6f35a64eef.jpg"
+    },
+    {
+      "id":7,
+      "id_wall":"007",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/ce/dc/26/cedc26a41d33a2fb6712543928339cff.jpg"
+    },
+    {
+      "id":8,
+      "id_wall":"008",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/d3/77/eb/d377eb679a74e0212acc3b653094a937.jpg"
+    },
+    {
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/93/8e/17/938e17393bbae30310001830acd27273.jpg"
+    },
+    {
+      "id":10,
+      "id_wall":"0010",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/75/34/e6/7534e698c95ec680773a1c0922e82136.jpg"
+    },
+	{
+      "id":11,
+      "id_wall":"0011",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/58/b4/ac/58b4ac9977bfd7b8cf7bd2aa6ca43bdb.jpg"
+    },
+    {
+      "id":12,
+      "id_wall":"0012",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/d3/2f/ef/d32fef73666b4f5f23876d60d0886543.jpg"
+    },
+    {
+      "id":13,
+      "id_wall":"0013",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/7a/26/c5/7a26c5e990a0abfc134351e0fe6fd61b.jpg"
+    },
+    {
+      "id":14,
+      "id_wall":"0014",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/27/4a/39/274a39b87ac13e94f8b78e724615da2f.jpg"
+    },
+    {
+      "id":15,
+      "id_wall":"0015",
+      "nama_cat": "",
+      "judul":"Battle Royale Wallpaper",
+      "image":"https://i.pinimg.com/564x/b0/00/e0/b000e0858983315d2b0abbe2ec244b4c.jpg"
+    }
+
+  ]
+}
